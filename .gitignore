@@ -1,0 +1,11 @@
+# Дописав сам ці два рядки:
+*.[oa]
+*~
+# Ці рядки взяті з файла в mezzanine:
+*.pyc
+*.pyo
+*.db
+.DS_Store
+.coverage
+local_settings.py
+/static
